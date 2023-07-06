@@ -1,0 +1,36 @@
+{
+  "agrupamentos": {
+    "pedidos": [
+        {
+            "agrupamento": "153158",
+            "pedido": "4413089553",
+            "cnpj": "05696903000172 ",
+            "quantidadeContratos": 8,
+            "valorComissaoERP": 0.0,
+            "valorComissaoSPOC": 1029.38,
+            "ir": 0.0,
+            "iss": 0.0,
+            "status": "Pagamento agendado - SAP",
+            "diferencaERPvsSomaContratos": 1029.38,
+            "erPvsValorComissao": 0.0,
+            "observacao": null,
+            "statusApuracao": 0
+        },
+        {
+            "agrupamento": "153214",
+            "pedido": "4413089835",
+            "cnpj": "21150875000140 ",
+            "quantidadeContratos": 44,
+            "valorComissaoERP": 4458.22,
+            "valorComissaoSPOC": 4596.1,
+            "ir": 0.0,
+            "iss": 137.88,
+            "status": "Pagamento realizado - SAP",
+            "diferencaERPvsSomaContratos": 0.0,
+            "erPvsValorComissao": 0.0,
+            "observacao": null,
+            "statusApuracao": 0
+        }
+    ]
+}
+}
